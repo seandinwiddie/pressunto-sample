@@ -1,4 +1,17 @@
 {
   "collections": [],
-  "templates": []
+  "templates": [
+    {
+      "id": "sample-a",
+      "name": "Sample A",
+      "fields": [
+        {
+          "field": "I",
+          "hidden": false,
+          "default": "",
+          "name": ""
+        }
+      ]
+    }
+  ]
 }
